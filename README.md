@@ -24,7 +24,7 @@
 
                                                                        
 <h3 align="left">Support:</h3>
-<h4 align="left">50% of every tip goas to a Organisation for children</h4>
+<h4 align="left">50% of every tip goes to an organization for children.</h4>
 <p><a href="https://ko-fi.com/amon528"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amon528" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaymon526&show_icons=true&locale=en&layout=compact" alt="amaymon526" /></p>
