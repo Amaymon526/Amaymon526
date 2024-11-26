@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Work Time Manager](https://github.com/Amaymon526/WorkTimeManager)
 
-- 🌱 I’m currently learning **Reverse Engineering und Game Hacking**
+- 🌱 I’m currently learning **Reverse Engineering and Game Hacking**
 
 - 👨‍💻 All of my projects are available at [Comming soon](Comming soon)
 
